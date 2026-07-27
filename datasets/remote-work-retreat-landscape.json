@@ -1,0 +1,532 @@
+{
+  "project": "Remote work retreat industry",
+  "documentary_title": "I Investigated Why People Pay Thousands To Recreate The Office",
+  "video_url": "{{VIDEO_URL_NEEDED}}",
+  "canonical_url": "{{CANONICAL_URL_NEEDED}}",
+  "methodology": "Structured exclusively from the supplied documentary script. No outside research added.",
+  "companies": [
+    {
+      "name": "Surf Office",
+      "category": "retreat planning company",
+      "transcript_description": "Organizes retreats in more than 200 destinations",
+      "named_clients": "Webflow; Monday.com; Shopify",
+      "verification_note": "Company and client claims require verification"
+    },
+    {
+      "name": "BoomPop",
+      "category": "corporate offsite platform/company",
+      "transcript_description": "Raised tens of millions of dollars to simplify corporate offsites",
+      "named_clients": "",
+      "verification_note": "Funding claim requires verification"
+    },
+    {
+      "name": "Offsite",
+      "category": "corporate offsite platform/company",
+      "transcript_description": "Built a platform for distributed companies to gather in person",
+      "named_clients": "",
+      "verification_note": ""
+    },
+    {
+      "name": "TeamOut",
+      "category": "retreat planning company",
+      "transcript_description": "Named as part of the retreat economy",
+      "named_clients": "",
+      "verification_note": ""
+    },
+    {
+      "name": "Moniker Partners",
+      "category": "retreat planning company",
+      "transcript_description": "Named as part of the retreat economy",
+      "named_clients": "",
+      "verification_note": ""
+    },
+    {
+      "name": "Flok",
+      "category": "retreat planning company",
+      "transcript_description": "Named as part of the retreat economy",
+      "named_clients": "",
+      "verification_note": ""
+    },
+    {
+      "name": "WorkTripp",
+      "category": "retreat planning company",
+      "transcript_description": "Named as part of the retreat economy",
+      "named_clients": "",
+      "verification_note": ""
+    },
+    {
+      "name": "NextRetreat",
+      "category": "retreat planning company",
+      "transcript_description": "Named as part of the retreat economy",
+      "named_clients": "",
+      "verification_note": ""
+    },
+    {
+      "name": "WeWork",
+      "category": "flexible office company",
+      "transcript_description": "Sold permanent proximity; valued at $47 billion in 2019 before Chapter 11 bankruptcy",
+      "named_clients": "",
+      "verification_note": "Valuation and bankruptcy require verification"
+    },
+    {
+      "name": "Remote Year",
+      "category": "remote travel/community company",
+      "transcript_description": "Shut down",
+      "named_clients": "",
+      "verification_note": "Requires verification"
+    },
+    {
+      "name": "Selina",
+      "category": "hospitality/coliving company",
+      "transcript_description": "Collapsed",
+      "named_clients": "",
+      "verification_note": "Requires verification"
+    },
+    {
+      "name": "Hacker Paradise",
+      "category": "remote travel/community company",
+      "transcript_description": "Merged",
+      "named_clients": "",
+      "verification_note": "Requires verification"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "YPO",
+      "type": "CEO peer group",
+      "date_or_origin_claim": "Founded in 1950",
+      "role_in_argument": "Remote work did not invent paid peer gathering behavior"
+    },
+    {
+      "name": "Vistage",
+      "type": "CEO peer group",
+      "date_or_origin_claim": "Founded in 1957",
+      "role_in_argument": "Remote work did not invent paid peer gathering behavior"
+    },
+    {
+      "name": "EO",
+      "type": "entrepreneur peer group",
+      "date_or_origin_claim": "",
+      "role_in_argument": "Named as an established model of leaders paying to gather"
+    },
+    {
+      "name": "The Remote Work Tribe",
+      "type": "podcast and newsletter",
+      "date_or_origin_claim": "Jessica Malnik researched the industry through it",
+      "role_in_argument": "Primary research context in documentary"
+    }
+  ],
+  "interview_participants": [
+    {
+      "name": "Stella Garber",
+      "role_or_context": "remote-work interviewee",
+      "transcript_contribution": "Offsites build trust and psychological safety; remote does not mean rejecting face time",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "William Chia",
+      "role_or_context": "remote-work interviewee",
+      "transcript_contribution": "Remote versus in-person is a false dichotomy; effective remote work requires face-to-face time",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "Meryl Johnston",
+      "role_or_context": "remote-first bookkeeping founder/interviewee",
+      "transcript_contribution": "Remote-first teams can value face-to-face relationships; retreat organizers should handle details while leaders shape goals and culture",
+      "evidence_type": "Interview clips"
+    },
+    {
+      "name": "Jared Kleinert",
+      "role_or_context": "Offsite founder",
+      "transcript_contribution": "Offsites can build culture or become a box-checking perk; gathering design should start with goals, environment, facilitation, and invitees",
+      "evidence_type": "Interview clips"
+    },
+    {
+      "name": "Jesse Schoberg",
+      "role_or_context": "founder/interviewee",
+      "transcript_contribution": "The value of gathering comes from the extra moments around work and a changed headspace",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "Branca Ballot",
+      "role_or_context": "remote-work interviewee",
+      "transcript_contribution": "Small in-person groups can gather around one difficult customer problem for deeper exploration",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "Scott Brills",
+      "role_or_context": "retreat business adviser/interviewee",
+      "transcript_contribution": "Prospective retreat operators should run the trip first with forgiving participants",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "Amar Ghose",
+      "role_or_context": "remote-work interviewee",
+      "transcript_contribution": "Off-topic water-cooler questions and team retreats support informal connection",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "Barrett Brooks",
+      "role_or_context": "remote-work interviewee",
+      "transcript_contribution": "Creating space and rest helps people return without feeling overwhelmed",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "John Yarbrough",
+      "role_or_context": "remote-work interviewee",
+      "transcript_contribution": "Remote work created time for walks, cooking, and intentional self-care",
+      "evidence_type": "Interview clip"
+    },
+    {
+      "name": "Jessica Malnik",
+      "role_or_context": "documentary creator",
+      "transcript_contribution": "Worked remotely for more than a decade; interviewed dozens of remote-first founders",
+      "evidence_type": "Narration"
+    }
+  ],
+  "retreat_categories": [
+    "Corporate retreats",
+    "Team offsites",
+    "Founder masterminds",
+    "CEO peer groups",
+    "Digital nomad communities",
+    "Coliving companies",
+    "Writing retreats",
+    "Creator retreats",
+    "Leadership retreats",
+    "AI retreats",
+    "Wellness retreats",
+    "Retreat consulting and education",
+    "Remote entrepreneur communities"
+  ],
+  "office_functions": [
+    {
+      "office_function": "Daily co-location",
+      "purpose": "Routine proximity",
+      "post_remote_status": "Mostly rejected",
+      "transcript_interpretation": "Remote work removes the daily obligation and commute"
+    },
+    {
+      "office_function": "Meetings",
+      "purpose": "Scheduled coordination",
+      "post_remote_status": "Retained remotely",
+      "transcript_interpretation": "Meetings survive through digital tools"
+    },
+    {
+      "office_function": "Email",
+      "purpose": "Asynchronous communication",
+      "post_remote_status": "Retained remotely",
+      "transcript_interpretation": "Email stayed"
+    },
+    {
+      "office_function": "Slack",
+      "purpose": "Fast team communication",
+      "post_remote_status": "Retained remotely",
+      "transcript_interpretation": "Slack stayed"
+    },
+    {
+      "office_function": "Project management",
+      "purpose": "Work coordination",
+      "post_remote_status": "Retained remotely",
+      "transcript_interpretation": "Project management stayed"
+    },
+    {
+      "office_function": "Trust building",
+      "purpose": "Relational infrastructure",
+      "post_remote_status": "Rebuilt through retreats",
+      "transcript_interpretation": "Shared experiences create trust"
+    },
+    {
+      "office_function": "Psychological safety",
+      "purpose": "Team confidence and openness",
+      "post_remote_status": "Rebuilt through retreats",
+      "transcript_interpretation": "Interviewees connect offsites with psychological safety"
+    },
+    {
+      "office_function": "Relationships",
+      "purpose": "Human connection",
+      "post_remote_status": "Rebuilt through retreats",
+      "transcript_interpretation": "Face-to-face relationships remain valuable"
+    },
+    {
+      "office_function": "Context",
+      "purpose": "Informal organizational knowledge",
+      "post_remote_status": "Rebuilt through retreats",
+      "transcript_interpretation": "Context is harder to recreate in scheduled digital channels"
+    },
+    {
+      "office_function": "Hallway conversations",
+      "purpose": "Unplanned exchange",
+      "post_remote_status": "Rebuilt intentionally",
+      "transcript_interpretation": "Temporary gatherings create room around the agenda"
+    },
+    {
+      "office_function": "Shared lunches and dinners",
+      "purpose": "Informal bonding",
+      "post_remote_status": "Rebuilt intentionally",
+      "transcript_interpretation": "Meals are part of the product"
+    },
+    {
+      "office_function": "Serendipity",
+      "purpose": "Unexpected useful interaction",
+      "post_remote_status": "Rebuilt intentionally",
+      "transcript_interpretation": "Retreats manufacture opportunities for unplanned conversation"
+    },
+    {
+      "office_function": "Brainstorming",
+      "purpose": "Collaborative problem solving",
+      "post_remote_status": "Used selectively in person",
+      "transcript_interpretation": "Small groups can gather around hard problems"
+    },
+    {
+      "office_function": "Mentorship",
+      "purpose": "Learning through proximity",
+      "post_remote_status": "Unbundled",
+      "transcript_interpretation": "Named as one of the office functions pulled apart"
+    },
+    {
+      "office_function": "Friendship",
+      "purpose": "Personal connection",
+      "post_remote_status": "Unbundled",
+      "transcript_interpretation": "Named as one of the office functions pulled apart"
+    },
+    {
+      "office_function": "Celebration",
+      "purpose": "Shared recognition",
+      "post_remote_status": "Unbundled",
+      "transcript_interpretation": "Named as one of the office functions pulled apart"
+    },
+    {
+      "office_function": "Accountability",
+      "purpose": "Social reinforcement",
+      "post_remote_status": "Unbundled",
+      "transcript_interpretation": "Named as one of the office functions pulled apart"
+    },
+    {
+      "office_function": "Learning",
+      "purpose": "Knowledge transfer",
+      "post_remote_status": "Unbundled",
+      "transcript_interpretation": "Named as one of the office functions pulled apart"
+    }
+  ],
+  "value_propositions": [
+    {
+      "value": "Alignment",
+      "what_it_means": "Bring people toward shared priorities",
+      "transcript_support": "Retreat spending is framed as buying alignment, not rooms"
+    },
+    {
+      "value": "Trust",
+      "what_it_means": "Build confidence in colleagues",
+      "transcript_support": "Repeated across interviews and conclusion"
+    },
+    {
+      "value": "Relationships",
+      "what_it_means": "Strengthen interpersonal bonds",
+      "transcript_support": "Face-to-face relationships remain important"
+    },
+    {
+      "value": "Momentum",
+      "what_it_means": "Create concentrated forward movement",
+      "transcript_support": "Named as part of what companies buy"
+    },
+    {
+      "value": "Psychological safety",
+      "what_it_means": "Make teams safer to communicate honestly",
+      "transcript_support": "Stella Garber links offsites to psychological safety"
+    },
+    {
+      "value": "Headspace",
+      "what_it_means": "Create a different mental context",
+      "transcript_support": "Jesse Schoberg describes the value of a changed headspace"
+    },
+    {
+      "value": "Deep exploration",
+      "what_it_means": "Work through hard problems",
+      "transcript_support": "Branca Ballot describes small groups gathering around one customer problem"
+    },
+    {
+      "value": "Informal context",
+      "what_it_means": "Create conversations outside meetings",
+      "transcript_support": "Repeated throughout the documentary"
+    },
+    {
+      "value": "Culture",
+      "what_it_means": "Shape how a team experiences itself",
+      "transcript_support": "Jared Kleinert and Meryl Johnston discuss intentional culture creation"
+    },
+    {
+      "value": "Rest and space",
+      "what_it_means": "Reduce overwhelm and support return to work",
+      "transcript_support": "Barrett Brooks discusses carving out space"
+    }
+  ],
+  "business_models": [
+    {
+      "model": "Permanent office lease",
+      "core_product": "Permanent proximity",
+      "what_is_sold": "Commercial landlords, office space, recurring occupancy",
+      "examples": "Traditional office"
+    },
+    {
+      "model": "Coworking/flexible office",
+      "core_product": "Flexible but recurring proximity",
+      "what_is_sold": "Workplace access and community framing",
+      "examples": "WeWork example"
+    },
+    {
+      "model": "Corporate retreat planner",
+      "core_product": "Intentional temporary proximity",
+      "what_is_sold": "Planning, logistics, destinations, facilitation support",
+      "examples": "Surf Office, TeamOut, Moniker Partners, Flok, WorkTripp, NextRetreat"
+    },
+    {
+      "model": "Offsite software/platform",
+      "core_product": "Retreat planning and procurement infrastructure",
+      "what_is_sold": "Simplified offsite planning and spend coordination",
+      "examples": "BoomPop and Offsite"
+    },
+    {
+      "model": "Peer group/mastermind",
+      "core_product": "Identity-based recurring gathering",
+      "what_is_sold": "Membership, access, peer connection",
+      "examples": "YPO, Vistage, EO, founder masterminds"
+    },
+    {
+      "model": "Coliving/remote travel community",
+      "core_product": "Work-compatible travel and community",
+      "what_is_sold": "Temporary location plus social structure",
+      "examples": "Remote Year, Selina, Hacker Paradise"
+    },
+    {
+      "model": "Retreat consultant/educator",
+      "core_product": "Expertise for launching or improving retreats",
+      "what_is_sold": "Advice, facilitation, training",
+      "examples": "Retreat consultants and Scott Brills clip"
+    }
+  ],
+  "key_claims": [
+    {
+      "claim": "The global corporate retreat market was worth $31.8 billion in 2024",
+      "value": "$31.8 billion",
+      "claim_type": "market size",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "The market is projected to more than double over the next decade",
+      "value": "More than 2x",
+      "claim_type": "forecast",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Companies are increasing offsite budgets",
+      "value": "",
+      "claim_type": "trend",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Companies are hosting more retreats than before the pandemic",
+      "value": "",
+      "claim_type": "trend",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "The number of companies holding zero retreats has almost disappeared",
+      "value": "",
+      "claim_type": "trend",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Some retreat companies manage hundreds of retreats each year",
+      "value": "Hundreds per year",
+      "claim_type": "company scale",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Some oversee more than $100 million in annual retreat spending",
+      "value": "More than $100 million annually",
+      "claim_type": "spend volume",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Some retreats cost several thousand dollars per employee",
+      "value": "Several thousand dollars per employee",
+      "claim_type": "pricing",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Surf Office organizes retreats in more than 200 destinations",
+      "value": "More than 200 destinations",
+      "claim_type": "company footprint",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "BoomPop raised tens of millions of dollars",
+      "value": "Tens of millions of dollars",
+      "claim_type": "funding",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "WeWork was valued at $47 billion in 2019",
+      "value": "$47 billion",
+      "claim_type": "valuation",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "WeWork filed for Chapter 11 bankruptcy",
+      "value": "",
+      "claim_type": "company event",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "YPO was founded in 1950",
+      "value": "1950",
+      "claim_type": "organization founding",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Vistage was founded in 1957",
+      "value": "1957",
+      "claim_type": "organization founding",
+      "status": "Requires external verification"
+    },
+    {
+      "claim": "Jessica Malnik has worked remotely for more than a decade",
+      "value": "More than 10 years",
+      "claim_type": "creator experience",
+      "status": "Transcript-supported personal statement"
+    },
+    {
+      "claim": "Jessica Malnik interviewed dozens of remote-first founders",
+      "value": "Dozens",
+      "claim_type": "research scope",
+      "status": "Transcript-supported creator statement"
+    }
+  ],
+  "unbundled_office_framework": [
+    {
+      "stage": "Remove daily obligation",
+      "description": "Eliminate commute, fixed office attendance, and routine co-location"
+    },
+    {
+      "stage": "Retain digital coordination",
+      "description": "Keep meetings, email, Slack, and project management"
+    },
+    {
+      "stage": "Identify missing accidental value",
+      "description": "Name trust, relationships, context, and serendipity"
+    },
+    {
+      "stage": "Rebuild selectively",
+      "description": "Use temporary gatherings for the valuable functions"
+    },
+    {
+      "stage": "Design intentionally",
+      "description": "Set goals, environment, facilitation, invitees, and ownership"
+    },
+    {
+      "stage": "Return to distributed work",
+      "description": "End the gathering and resume remote work"
+    }
+  ]
+}
