@@ -1,17 +1,17 @@
-claim,value,claim_type,status
-The global corporate retreat market was worth $31.8 billion in 2024,$31.8 billion,market size,Requires external verification
-The market is projected to more than double over the next decade,More than 2x,forecast,Requires external verification
-Companies are increasing offsite budgets,,trend,Requires external verification
-Companies are hosting more retreats than before the pandemic,,trend,Requires external verification
-The number of companies holding zero retreats has almost disappeared,,trend,Requires external verification
-Some retreat companies manage hundreds of retreats each year,Hundreds per year,company scale,Requires external verification
-Some oversee more than $100 million in annual retreat spending,More than $100 million annually,spend volume,Requires external verification
-Some retreats cost several thousand dollars per employee,Several thousand dollars per employee,pricing,Requires external verification
-Surf Office organizes retreats in more than 200 destinations,More than 200 destinations,company footprint,Requires external verification
-BoomPop raised tens of millions of dollars,Tens of millions of dollars,funding,Requires external verification
-WeWork was valued at $47 billion in 2019,$47 billion,valuation,Requires external verification
-WeWork filed for Chapter 11 bankruptcy,,company event,Requires external verification
-YPO was founded in 1950,1950,organization founding,Requires external verification
-Vistage was founded in 1957,1957,organization founding,Requires external verification
-Jessica Malnik has worked remotely for more than a decade,More than 10 years,creator experience,Transcript-supported personal statement
-Jessica Malnik interviewed dozens of remote-first founders,Dozens,research scope,Transcript-supported creator statement
+claim,value,claim_type
+The global corporate retreat market was worth $31.8 billion in 2024,$31.8 billion,market size
+The market is projected to more than double over the next decade,More than 2x,forecast
+Companies are increasing offsite budgets,,trend
+Companies are hosting more retreats than before the pandemic,,trend
+The number of companies holding zero retreats has almost disappeared,,trend
+Some retreat companies manage hundreds of retreats each year,Hundreds per year,company scale
+Some oversee more than $100 million in annual retreat spending,More than $100 million annually,spend volume
+Some retreats cost several thousand dollars per employee,Several thousand dollars per employee,pricing
+Surf Office organizes retreats in more than 200 destinations,More than 200 destinations,company footprint
+BoomPop raised tens of millions of dollars,Tens of millions of dollars,funding
+WeWork was valued at $47 billion in 2019,$47 billion,valuation
+WeWork filed for Chapter 11 bankruptcy,,company event
+YPO was founded in 1950,1950,organization founding
+Vistage was founded in 1957,1957,organization founding
+Jessica Malnik has worked remotely for more than a decade,More than 10 years,creator experience
+Jessica Malnik interviewed dozens of remote-first founders,Dozens,research scope
