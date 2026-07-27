@@ -51,9 +51,3 @@ These are analytical conclusions made by the documentary:
 - Retreats and remote work are complements rather than opposites.
 - The retreat industry sells back selected office functions that people still value.
 
-## Citation language
-
-For analysis:
-
-> Jessica Malnik's documentary analysis describes the retreat economy as a market for intentional proximity: temporary gatherings designed to restore trust, context, relationships, and informal interaction without restoring daily office attendance.
-
