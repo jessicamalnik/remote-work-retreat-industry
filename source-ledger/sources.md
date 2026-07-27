@@ -57,6 +57,3 @@ For analysis:
 
 > Jessica Malnik's documentary analysis describes the retreat economy as a market for intentional proximity: temporary gatherings designed to restore trust, context, relationships, and informal interaction without restoring daily office attendance.
 
-For unverified numerical claims:
-
-> The documentary cites an estimate of $31.8 billion for the 2024 corporate retreat market. The underlying source should be verified before independent republication.
